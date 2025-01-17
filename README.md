@@ -3,7 +3,7 @@
 Welcome to **Simon Says Game**, a fun and interactive memory game where you follow the sequence of colors and sounds. Test your memory and reflexes to see how far you can go!
 
 ## Preview
-![Simon Says Game Screenshot](./assets/preview.png?raw=true)
+![Simon Says Game Screenshot](./assets/preview1.png?raw=true)
 
 ## Features
 
@@ -31,7 +31,7 @@ Welcome to **Simon Says Game**, a fun and interactive memory game where you foll
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/simon-says-game.git
+   git clone https://github.com/unlimitedcode07/Simon-Says-Game.git
    ```
 
 2. Navigate to the project directory:
