@@ -1,9 +1,11 @@
+
+## Preview
+![Simon Says Game Screenshot](./assets/preview1.png?raw=true)
+
 # Simon Says Game
 
 Welcome to **Simon Says Game**, a fun and interactive memory game where you follow the sequence of colors and sounds. Test your memory and reflexes to see how far you can go!
 
-## Preview
-![Simon Says Game Screenshot](./assets/preview1.png?raw=true)
 
 ## Features
 
